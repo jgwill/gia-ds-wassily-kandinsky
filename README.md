@@ -1,2 +1,3 @@
 # gia-ds-wassily-kandinsky-v1-210310
-Datasets for various AI Modeling
+Datasets of Wassily Kandinsky for various AI Modeling 
+
